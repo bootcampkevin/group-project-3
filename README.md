@@ -9,6 +9,8 @@
 
 [PantryChef](http://www.pantrychef.us)
 
+> *Note: Heroku's free tier MongoDB has been discontinued by mLabs. The site is currently non-functional.
+
 ## Authors
 
 - **Kevin Flanagan** - _Front and Back-End_ - [Github](https://github.com/kflan-io)
